@@ -51,12 +51,14 @@
 }
 .displayContacts div h1{
     font-size: 1.2rem;
+    text-transform: capitalize;
 }
 .displayContacts div button{
     width: 100px;
     margin-left: 10px;
     height: 40px;
-    background-color: lightgreen;
-    font-weight: 500;
+    background-color:yellow;
+    font-weight: 700;
+    /* color: blue; */
     
 }
